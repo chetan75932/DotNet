@@ -1,0 +1,40 @@
+@page
+@using Catalog;
+
+@{
+   Product p1=new Product();
+   p1.Prodname="AC";
+   p1.Prodcategory="Electric Device";
+   p1.Prodprice=30000;
+   p1.Imageurl="/images/Ac.jpg";
+
+   Product p2=new Product();
+   p2.Prodname="CRETA";
+   p2.Prodcategory="vehicle";
+   p2.Prodprice=2000000;
+   p2.Imageurl="/images/Car.jpeg";
+}  
+
+
+
+<div style={display:flexs}>
+<div class="card" style="width:400px">
+  <img class="card-img-top" src=@p1.Imageurl alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">@p1.Prodname</h4>
+    <p class="card-text">@p1.Prodprice</p>
+    <a href="#" class="btn btn-primary">Add to card</a>
+  </div>
+</div>
+
+
+<div class="card" style="width:400px">
+  <img class="card-img-top" src=@p2.Imageurl alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">@p2.Prodname</h4>
+    <p class="card-text">@p2.Prodprice</p>
+    <a href="#" class="btn btn-primary">Add to card</a>
+  </div>
+</div>
+
+</div>
