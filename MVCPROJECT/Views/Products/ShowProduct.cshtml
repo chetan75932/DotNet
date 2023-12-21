@@ -1,0 +1,21 @@
+@using Catalog;
+
+@{
+    ViewData["Title"]="Catalog Page";
+}
+
+<div class="text-center">
+
+@{
+   Product p1=ViewData["product"] as Product;
+}
+
+<h1>Title</h1>
+<br/>
+<img src=@p1.Imageurl width="100" height="100"/>
+<p>ProductId :@p1.Id</p>
+<p>Description :@p1.Description</p>
+<p>UnitPrice :@p1.UnitPrice</p>
+<p>Quantity :@p1.Quantity</p>
+<button>Add to Cart</button>
+</div>
