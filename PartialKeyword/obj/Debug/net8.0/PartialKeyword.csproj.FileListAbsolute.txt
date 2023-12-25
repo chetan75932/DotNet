@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\bin\Debug\net8.0\PartialKeyword.exe
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\bin\Debug\net8.0\PartialKeyword.deps.json
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\bin\Debug\net8.0\PartialKeyword.runtimeconfig.json
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\bin\Debug\net8.0\PartialKeyword.dll
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\bin\Debug\net8.0\PartialKeyword.pdb
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.dll
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\refint\PartialKeyword.dll
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.pdb
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\PartialKeyword.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNot\Deli\PartialKeyword\obj\Debug\net8.0\ref\PartialKeyword.dll
