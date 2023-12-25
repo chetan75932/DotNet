@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\bin\Debug\net8.0\ExplicitInterFaceInheritance.exe
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\bin\Debug\net8.0\ExplicitInterFaceInheritance.deps.json
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\bin\Debug\net8.0\ExplicitInterFaceInheritance.runtimeconfig.json
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\bin\Debug\net8.0\ExplicitInterFaceInheritance.dll
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\bin\Debug\net8.0\ExplicitInterFaceInheritance.pdb
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.dll
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\refint\ExplicitInterFaceInheritance.dll
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.pdb
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ExplicitInterFaceInheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNot\Deli\ExplicitInterFaceInheritance\obj\Debug\net8.0\ref\ExplicitInterFaceInheritance.dll
