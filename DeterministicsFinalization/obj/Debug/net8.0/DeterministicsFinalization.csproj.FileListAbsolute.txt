@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\bin\Debug\net8.0\DeterministicsFinalization.exe
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\bin\Debug\net8.0\DeterministicsFinalization.deps.json
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\bin\Debug\net8.0\DeterministicsFinalization.runtimeconfig.json
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\bin\Debug\net8.0\DeterministicsFinalization.dll
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\bin\Debug\net8.0\DeterministicsFinalization.pdb
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.dll
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\refint\DeterministicsFinalization.dll
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.pdb
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\DeterministicsFinalization.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNot\Deli\DeterministicsFinalization\obj\Debug\net8.0\ref\DeterministicsFinalization.dll
