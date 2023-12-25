@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\bin\Debug\net8.0\VirtualKeyWord.exe
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\bin\Debug\net8.0\VirtualKeyWord.deps.json
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\bin\Debug\net8.0\VirtualKeyWord.runtimeconfig.json
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\bin\Debug\net8.0\VirtualKeyWord.dll
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\bin\Debug\net8.0\VirtualKeyWord.pdb
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.AssemblyInfo.cs
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.dll
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\refint\VirtualKeyWord.dll
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.pdb
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\VirtualKeyWord.genruntimeconfig.cache
+C:\Users\IET\Desktop\DotNot\Deli\VirtualKeyWord\obj\Debug\net8.0\ref\VirtualKeyWord.dll
